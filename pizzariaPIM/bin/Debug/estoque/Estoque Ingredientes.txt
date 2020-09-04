@@ -1,0 +1,13 @@
+050                      requeijao 96
+051                      mussarela 93
+052                      provolone 96
+053                      parmessao 99
+054                       azeitona 98
+055                      calabresa 100
+056                         cebola 100
+057                         tomate 99
+058                     manjericao 99
+059                       presunto 100
+060                          bacon 100
+061                            ovo 100
+062                      pepperoni 100

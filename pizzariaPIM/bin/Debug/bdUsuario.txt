@@ -1,0 +1,5 @@
+Marcos	     1234       administrador
+Vinicius     1234       atendente
+Daniel       1234       pizzaiolo
+
+Daniel 4321 pizzaiolo 
